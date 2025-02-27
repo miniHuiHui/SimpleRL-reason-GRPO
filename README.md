@@ -1,6 +1,6 @@
 # SimpleRL-reason-GRPO
 
-This repo contains GRPO implementation of [SimpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason/). The GRPO implementation is based on OpenRLHF.
+This repo contains GRPO implementation of [SimpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason/). The GRPO implementation is based on [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF).
 
 
 ## Quick Start
