@@ -1,6 +1,6 @@
 # SimpleRL-reason-GRPO
 
-This repo contains GRPO implementation of [SimpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason/)
+This repo contains GRPO implementation of [SimpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason/). The GRPO implementation is based on OpenRLHF.
 
 
 ## Quick Start
@@ -32,3 +32,5 @@ ray job submit --address="http://127.0.0.1:8265" \
     }' -- /bin/bash examples/script/train_grpo_qwen_1.5b_math.sh
 
 ```
+
+
